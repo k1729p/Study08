@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"kp"},{"l":"kp.company.base"},{"l":"kp.company.client.side"},{"l":"kp.company.client.side.base"},{"l":"kp.company.mvc"},{"l":"kp.company.mvc.base"}];updateSearchResults();
